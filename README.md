@@ -6,7 +6,7 @@
 ## **Autores:**
 * José Fredy Navarro, 2190044 [Freed219](https://github.com/Freed219).
 * Juan Andrés Guarín Rojas, 2201870 [AndresGuarin](https://github.com/AndresGuarin/).
-* Brayan Sneider Daza Suárez, 2190040.
+* Brayan Sneider Daza Suárez, 2190040 [BrayanDaza](https://github.com/BrayanDaza).
 
 ## **Objetivo**
 Aplicar un modelo de regresión para estimar el número máximo de partículas (**MC Xmax**).
