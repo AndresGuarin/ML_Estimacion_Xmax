@@ -1,6 +1,6 @@
 # **Detección del número máximo de partículas de una cascada de astropartículas**
-<center>
-<img src="https://drive.google.com/uc?id=1ZWClpEv4nsRthBfZAwgXH7S-5Hm6rnLB" width="800px" height="300px">
+<center> 
+<img src="https://raw.githubusercontent.com/AndresGuarin/Images/main/IA-1/IronProtonXmaxDetectionBanner.png" width="800px" height="300px">
 </center>
 
 ## **Autores:**
@@ -21,5 +21,5 @@ DecisionTreeRegressor, RandomForestRegressor, cross_val_score.
 
 ## **Enlaces**
 * Código alojado en Google colab: https://drive.google.com/file/d/1ulZC5_Xf6kswnCSGph2clLh9ZJ5znNLV/view?usp=sharing
-* Vídeo en YouTube: https://youtu.be/pqu8OazJmHQ
+* Vídeo en YouTube: https://youtu.be/PB6hvyfFuvw
 * Este repositorio: https://github.com/AndresGuarin/ML_Estimacion_Xmax/
